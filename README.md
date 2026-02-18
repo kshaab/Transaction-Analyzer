@@ -52,7 +52,7 @@ tests/
 ## Использование
 1. Клонирование репозитория: 
 ```bash
-git clone https://github.com/kshaab/Coursework_1
+git clone https://github.com/kshaab/Transaction-Analyzer
 cd crswrk_1
 ```
 2. Установка зависимостей и активация виртуального окружения:
