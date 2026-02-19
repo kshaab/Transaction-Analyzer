@@ -34,6 +34,7 @@
 - Poetry
 - Pytest
 - Pandas
+- PostgreSQL
 - JSON / CSV / Excel
 - REST API
 
